@@ -1,2 +1,1 @@
 # SanyoBot
-$help
